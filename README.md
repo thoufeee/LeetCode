@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thoufeee/LeetCode/tree/master/0001-two-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thoufeee/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thoufeee/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Linked List
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thoufeee/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
