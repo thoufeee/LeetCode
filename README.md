@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thoufeee/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thoufeee/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/thoufeee/LeetCode/tree/master/0058-length-of-last-word) |
+| [0520-detect-capital](https://github.com/thoufeee/LeetCode/tree/master/0520-detect-capital) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thoufeee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1944-truncate-sentence](https://github.com/thoufeee/LeetCode/tree/master/1944-truncate-sentence) |
 | [3811-reverse-degree-of-a-string](https://github.com/thoufeee/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
