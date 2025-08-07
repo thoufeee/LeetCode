@@ -1,12 +1,12 @@
 func twoSum(nums []int, target int) []int {
-    result := [] int {}
-    for i:=0;i<len(nums);i++ {
-         for j:=i+1;j<=len(nums)-1;j++ {
-            if nums[i] + nums[j] == target {
-                  result = append(result, i,j)
-                  break;
+       hash := make(map[int] int)
+
+       for i,val := range nums {
+            diff := target - val
+           if ind,value := hash[diff]; value {
+                     return [] int {ind, i}
             }
-         }
-    }
-        return result;
+               hash[val] = i
+       }
+          return [] int {}
 }
