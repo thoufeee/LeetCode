@@ -102,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/thoufeee/LeetCode/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/thoufeee/LeetCode/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/thoufeee/LeetCode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
