@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thoufeee/LeetCode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/thoufeee/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/thoufeee/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thoufeee/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Matrix
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/thoufeee/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/thoufeee/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/thoufeee/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/thoufeee/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
