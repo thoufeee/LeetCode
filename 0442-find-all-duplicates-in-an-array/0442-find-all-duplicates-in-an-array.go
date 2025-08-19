@@ -1,16 +1,20 @@
 func findDuplicates(nums []int) []int {
-        hash := make(map[int]int)
+        hash := make(map[int]bool)
+        check := make(map[int]bool)
         result := []int {}
-
+ 
         for _,val := range nums {
-               hash[val]++
+              if hash[val] {
+                  if !check[val] {
+                       result = append(result,val)
+                       check[val] = true
+                  }
+                   
+              }else {
+                   hash[val] = true
+              }
         }
-        for i,val := range hash {
-               if val > 1 {
-                   result = append(result,i)
-               }
-        }
-
+     
            return result
     
 }
