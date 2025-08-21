@@ -1,6 +1,6 @@
 func maxIceCream(costs []int, coins int) int {
     count := 0
-    sort.Ints(costs)
+    slices.Sort(costs)
 
 	for _, val := range costs {
 		if val <= coins {
