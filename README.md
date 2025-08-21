@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/thoufeee/LeetCode/tree/master/0948-sort-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thoufeee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1944-truncate-sentence](https://github.com/thoufeee/LeetCode/tree/master/1944-truncate-sentence) |
+| [1961-maximum-ice-cream-bars](https://github.com/thoufeee/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thoufeee/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thoufeee/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thoufeee/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1961-maximum-ice-cream-bars](https://github.com/thoufeee/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thoufeee/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/thoufeee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/thoufeee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/thoufeee/LeetCode/tree/master/0948-sort-an-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/thoufeee/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thoufeee/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thoufeee/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/thoufeee/LeetCode/tree/master/0948-sort-an-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/thoufeee/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Binary Search Tree
 |  |
 | ------- |
