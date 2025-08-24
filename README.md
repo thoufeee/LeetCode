@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thoufeee/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thoufeee/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thoufeee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
@@ -141,15 +142,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thoufeee/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thoufeee/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thoufeee/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thoufeee/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/thoufeee/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thoufeee/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thoufeee/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/thoufeee/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Recursion
