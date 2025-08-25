@@ -36,24 +36,21 @@ func maxSubArray(nums []int) int {
     //               result = sum
     //         }
     //    }  
-
     //      return result  
-
 
         max := nums[0]
         result := nums[0]
 
         for i:=1;i<len(nums);i++ {
                if max + nums[i] > nums[i] {
-                        max = max + nums[i]
+                  max = max + nums[i]
                }else {
-                     max = nums[i]
+                  max = nums[i]
                }
 
                if max > result {
-                    result = max
+                  result = max
                }
         }
-
-           return result
+                  return result
 }
