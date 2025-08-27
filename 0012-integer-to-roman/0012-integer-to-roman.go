@@ -6,8 +6,8 @@ func intToRoman(num int) string {
 
     for i:=0;i<len(val);i++ {
           for num >= val[i] {
-                result += rom[i]
-                num -= val[i]
+                result = result + rom[i]
+                num = num - val[i]
           }
     }
 
