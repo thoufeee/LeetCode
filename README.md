@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thoufeee/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/thoufeee/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/thoufeee/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/thoufeee/LeetCode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/thoufeee/LeetCode/tree/master/0229-majority-element-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/thoufeee/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/thoufeee/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/thoufeee/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/thoufeee/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/thoufeee/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/thoufeee/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thoufeee/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/thoufeee/LeetCode/tree/master/0049-group-anagrams) |
