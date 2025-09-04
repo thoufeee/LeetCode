@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/thoufeee/LeetCode/tree/master/0948-sort-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thoufeee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/thoufeee/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1944-truncate-sentence](https://github.com/thoufeee/LeetCode/tree/master/1944-truncate-sentence) |
 | [1961-maximum-ice-cream-bars](https://github.com/thoufeee/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thoufeee/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/thoufeee/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/thoufeee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/thoufeee/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thoufeee/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/thoufeee/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1961-maximum-ice-cream-bars](https://github.com/thoufeee/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thoufeee/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
