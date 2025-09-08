@@ -1,9 +1,9 @@
 func sortedSquares(nums []int) []int {
      
-	sq := []int{}
+	sq := make([]int, len(nums))
 
-	for _, val := range nums {
-		sq = append(sq, val*val)
+	for i, val := range nums {
+		sq[i] = val * val
 	}
 
 	slices.Sort(sq)
