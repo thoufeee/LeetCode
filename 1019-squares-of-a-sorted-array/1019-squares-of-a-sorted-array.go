@@ -6,9 +6,7 @@ func sortedSquares(nums []int) []int {
 		sq = append(sq, val*val)
 	}
 
-	sort.Slice(sq, func(i, j int) bool {
-		return sq[i] < sq[j]
-	})
+	slices.Sort(sq)
 
 	  return sq
 }
