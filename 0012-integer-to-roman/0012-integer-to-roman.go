@@ -10,6 +10,5 @@ func intToRoman(num int) string {
                 result = result + rom[i]
           }
     }
-
        return result
 }
