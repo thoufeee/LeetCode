@@ -46,5 +46,5 @@ func frequencySort(s string) string {
 		result.WriteString(strings.Repeat(val.val, val.count))
 		n--
 	}
-	return result.String()
+	    return result.String()
 }
