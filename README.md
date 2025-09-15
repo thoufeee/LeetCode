@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/thoufeee/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/thoufeee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/thoufeee/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/thoufeee/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thoufeee/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/thoufeee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/thoufeee/LeetCode/tree/master/0520-detect-capital) |
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/thoufeee/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thoufeee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1944-truncate-sentence](https://github.com/thoufeee/LeetCode/tree/master/1944-truncate-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thoufeee/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
