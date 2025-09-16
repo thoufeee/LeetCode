@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3194-find-words-containing-character](https://github.com/thoufeee/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3311-ant-on-the-boundary](https://github.com/thoufeee/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/thoufeee/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3311-ant-on-the-boundary](https://github.com/thoufeee/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3811-reverse-degree-of-a-string](https://github.com/thoufeee/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/thoufeee/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/thoufeee/LeetCode/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
