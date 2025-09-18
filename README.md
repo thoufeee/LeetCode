@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thoufeee/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/thoufeee/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/thoufeee/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/thoufeee/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thoufeee/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thoufeee/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Matrix
