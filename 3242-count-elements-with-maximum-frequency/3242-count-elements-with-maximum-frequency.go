@@ -13,13 +13,10 @@ func maxFrequencyElements(nums []int) int {
 	for _, val := range hash {
 		if val > max {
 			max = val
-		}
-	}
-
-	for _, val := range hash {
-		if val == max {
-			result += val
-		}
+            result = val
+		}else if val == max {
+               result += val
+        }
 	}
 
     return result
