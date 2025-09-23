@@ -6,7 +6,7 @@ func findDisappearedNumbers(nums []int) []int {
 		hash[val] = true
 	}
 
-	result := []int{}
+	result := make([]int,0)
 
 	for i := 1; i <= len(nums); i++ {
 		if !hash[i] {
