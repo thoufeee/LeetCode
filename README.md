@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/thoufeee/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thoufeee/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thoufeee/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thoufeee/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3194-find-words-containing-character](https://github.com/thoufeee/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thoufeee/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/thoufeee/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/thoufeee/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thoufeee/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thoufeee/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thoufeee/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thoufeee/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thoufeee/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/thoufeee/LeetCode/tree/master/1642-water-bottles) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thoufeee/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/thoufeee/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/thoufeee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/thoufeee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thoufeee/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thoufeee/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thoufeee/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
