@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thoufeee/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/thoufeee/LeetCode/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/thoufeee/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/thoufeee/LeetCode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/thoufeee/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1031-add-to-array-form-of-integer](https://github.com/thoufeee/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/thoufeee/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/thoufeee/LeetCode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/thoufeee/LeetCode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/thoufeee/LeetCode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/thoufeee/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3311-ant-on-the-boundary](https://github.com/thoufeee/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/thoufeee/LeetCode/tree/master/3311-ant-on-the-boundary) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/thoufeee/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
