@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/thoufeee/LeetCode/tree/master/1944-truncate-sentence) |
 | [1961-maximum-ice-cream-bars](https://github.com/thoufeee/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thoufeee/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/thoufeee/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thoufeee/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thoufeee/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/thoufeee/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/thoufeee/LeetCode/tree/master/1944-truncate-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thoufeee/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/thoufeee/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/thoufeee/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3811-reverse-degree-of-a-string](https://github.com/thoufeee/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thoufeee/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/thoufeee/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/thoufeee/LeetCode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/thoufeee/LeetCode/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/thoufeee/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/thoufeee/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3311-ant-on-the-boundary](https://github.com/thoufeee/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/thoufeee/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
