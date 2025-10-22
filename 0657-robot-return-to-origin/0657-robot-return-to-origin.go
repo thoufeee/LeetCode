@@ -15,10 +15,6 @@ func judgeCircle(moves string) bool {
 		}
 	}
 
-	if r == 0 && u == 0 {
-		return true
-	} else {
-		return false
-	}
-
+	return r == 0 && u == 0 
+	
 }
