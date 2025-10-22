@@ -1,16 +1,15 @@
 func judgeCircle(moves string) bool {
-	sv := strings.ToLower(moves)
 	r, u := 0, 0
-	for i := 0; i < len(sv); i++ {
+	for i := 0; i < len(moves); i++ {
 
 		switch {
-		case string(sv[i]) == "u":
+		case string(moves[i]) == "U":
 			u++
-		case string(sv[i]) == "r":
+		case string(moves[i]) == "R":
 			r++
-		case string(sv[i]) == "l":
+		case string(moves[i]) == "L":
 			r--
-		case string(sv[i]) == "d":
+		case string(moves[i]) == "D":
 			u--
 		}
 	}
