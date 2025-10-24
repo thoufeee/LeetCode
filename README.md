@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/thoufeee/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/thoufeee/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/thoufeee/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1086-divisor-game](https://github.com/thoufeee/LeetCode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/thoufeee/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thoufeee/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thoufeee/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thoufeee/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thoufeee/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/thoufeee/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/thoufeee/LeetCode/tree/master/1086-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -301,4 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/thoufeee/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/thoufeee/LeetCode/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/thoufeee/LeetCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/thoufeee/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
