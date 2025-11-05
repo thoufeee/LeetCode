@@ -30,6 +30,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/thoufeee/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1319-unique-number-of-occurrences](https://github.com/thoufeee/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thoufeee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/thoufeee/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thoufeee/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1848-sum-of-unique-elements](https://github.com/thoufeee/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -63,6 +64,7 @@
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thoufeee/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/thoufeee/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/thoufeee/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1848-sum-of-unique-elements](https://github.com/thoufeee/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thoufeee/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
