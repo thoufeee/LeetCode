@@ -48,6 +48,7 @@
 | [3311-ant-on-the-boundary](https://github.com/thoufeee/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/thoufeee/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thoufeee/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/thoufeee/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/thoufeee/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
