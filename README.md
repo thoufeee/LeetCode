@@ -44,6 +44,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3194-find-words-containing-character](https://github.com/thoufeee/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/thoufeee/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thoufeee/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/thoufeee/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/thoufeee/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -71,6 +72,7 @@
 | [1848-sum-of-unique-elements](https://github.com/thoufeee/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thoufeee/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/thoufeee/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thoufeee/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thoufeee/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thoufeee/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -135,12 +137,14 @@
 | [1642-water-bottles](https://github.com/thoufeee/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/thoufeee/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thoufeee/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3227-find-missing-and-repeated-values](https://github.com/thoufeee/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/thoufeee/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thoufeee/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
 | ------- |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3227-find-missing-and-repeated-values](https://github.com/thoufeee/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
