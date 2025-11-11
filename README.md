@@ -33,6 +33,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/thoufeee/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thoufeee/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/thoufeee/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1651-shuffle-string](https://github.com/thoufeee/LeetCode/tree/master/1651-shuffle-string) |
 | [1848-sum-of-unique-elements](https://github.com/thoufeee/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/thoufeee/LeetCode/tree/master/1944-truncate-sentence) |
