@@ -49,6 +49,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/thoufeee/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thoufeee/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/thoufeee/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/thoufeee/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thoufeee/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -148,6 +149,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/thoufeee/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/thoufeee/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thoufeee/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thoufeee/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/thoufeee/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/thoufeee/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thoufeee/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
