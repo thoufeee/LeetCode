@@ -29,6 +29,7 @@
 | [0948-sort-an-array](https://github.com/thoufeee/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/thoufeee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/thoufeee/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1122-relative-sort-array](https://github.com/thoufeee/LeetCode/tree/master/1122-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/thoufeee/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thoufeee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -73,6 +74,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thoufeee/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/thoufeee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1122-relative-sort-array](https://github.com/thoufeee/LeetCode/tree/master/1122-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thoufeee/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/thoufeee/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -117,6 +119,7 @@
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/thoufeee/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/thoufeee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/thoufeee/LeetCode/tree/master/1122-relative-sort-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/thoufeee/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thoufeee/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thoufeee/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -328,6 +331,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/thoufeee/LeetCode/tree/master/0948-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/thoufeee/LeetCode/tree/master/1122-relative-sort-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/thoufeee/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Binary Search Tree
 |  |
