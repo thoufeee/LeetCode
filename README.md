@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/thoufeee/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/thoufeee/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thoufeee/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/thoufeee/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/thoufeee/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thoufeee/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/thoufeee/LeetCode/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@
 | [0001-two-sum](https://github.com/thoufeee/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/thoufeee/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/thoufeee/LeetCode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/thoufeee/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/thoufeee/LeetCode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/thoufeee/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/thoufeee/LeetCode/tree/master/0229-majority-element-ii) |
