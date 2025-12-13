@@ -60,6 +60,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thoufeee/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/thoufeee/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thoufeee/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/thoufeee/LeetCode/tree/master/3606-coupon-code-validator) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/thoufeee/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/thoufeee/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
@@ -91,6 +92,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/thoufeee/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thoufeee/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thoufeee/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/thoufeee/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thoufeee/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/thoufeee/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
@@ -129,6 +131,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thoufeee/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thoufeee/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3606-coupon-code-validator](https://github.com/thoufeee/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Linked List
 |  |
 | ------- |
@@ -190,6 +193,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thoufeee/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thoufeee/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/thoufeee/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3606-coupon-code-validator](https://github.com/thoufeee/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3811-reverse-degree-of-a-string](https://github.com/thoufeee/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thoufeee/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
