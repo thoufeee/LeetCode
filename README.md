@@ -29,6 +29,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/thoufeee/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/thoufeee/LeetCode/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/thoufeee/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/thoufeee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/thoufeee/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1122-relative-sort-array](https://github.com/thoufeee/LeetCode/tree/master/1122-relative-sort-array) |
@@ -80,6 +81,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thoufeee/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/thoufeee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/thoufeee/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/thoufeee/LeetCode/tree/master/1122-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thoufeee/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/thoufeee/LeetCode/tree/master/1319-unique-number-of-occurrences) |
