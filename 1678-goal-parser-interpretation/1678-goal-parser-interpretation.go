@@ -7,7 +7,9 @@ func interpret(command string) string {
         } else if string(command[i+1]) == ")" {
             res += "o"
             i += 1
-        } else if string(command[i+1]) == "a" && string(command[i+2]) == "l" && string(command[i+3]) == ")" {
+        } else if string(command[i+1]) == "a" &&
+         string(command[i+2]) == "l" &&
+         string(command[i+3]) == ")" {
             res += "al"
             i += 3
         }
