@@ -192,6 +192,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thoufeee/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thoufeee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1651-shuffle-string](https://github.com/thoufeee/LeetCode/tree/master/1651-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/thoufeee/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/thoufeee/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/thoufeee/LeetCode/tree/master/1944-truncate-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thoufeee/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
