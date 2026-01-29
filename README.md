@@ -114,6 +114,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thoufeee/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/thoufeee/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1961-maximum-ice-cream-bars](https://github.com/thoufeee/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2027-minimum-moves-to-convert-string](https://github.com/thoufeee/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/thoufeee/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -195,6 +196,7 @@
 | [1678-goal-parser-interpretation](https://github.com/thoufeee/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/thoufeee/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/thoufeee/LeetCode/tree/master/1944-truncate-sentence) |
+| [2027-minimum-moves-to-convert-string](https://github.com/thoufeee/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thoufeee/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thoufeee/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/thoufeee/LeetCode/tree/master/3194-find-words-containing-character) |
