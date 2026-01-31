@@ -28,6 +28,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thoufeee/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/thoufeee/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/thoufeee/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0948-sort-an-array](https://github.com/thoufeee/LeetCode/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/thoufeee/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/thoufeee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -260,6 +261,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thoufeee/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/thoufeee/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thoufeee/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/thoufeee/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
