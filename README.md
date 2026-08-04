@@ -66,6 +66,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thoufeee/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/thoufeee/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/thoufeee/LeetCode/tree/master/3637-trionic-array-i) |
+| [3731-find-missing-elements](https://github.com/thoufeee/LeetCode/tree/master/3731-find-missing-elements) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/thoufeee/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/thoufeee/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
@@ -99,6 +100,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/thoufeee/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thoufeee/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/thoufeee/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3731-find-missing-elements](https://github.com/thoufeee/LeetCode/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thoufeee/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/thoufeee/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
@@ -140,6 +142,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/thoufeee/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thoufeee/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3606-coupon-code-validator](https://github.com/thoufeee/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3731-find-missing-elements](https://github.com/thoufeee/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
