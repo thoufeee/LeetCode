@@ -177,6 +177,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thoufeee/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/thoufeee/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thoufeee/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3870-count-commas-in-range](https://github.com/thoufeee/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Matrix
 |  |
 | ------- |
