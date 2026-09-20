@@ -27,6 +27,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/thoufeee/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thoufeee/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/thoufeee/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/thoufeee/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/thoufeee/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/thoufeee/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0948-sort-an-array](https://github.com/thoufeee/LeetCode/tree/master/0948-sort-an-array) |
@@ -389,6 +390,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/thoufeee/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/thoufeee/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Enumeration
 |  |
 | ------- |
