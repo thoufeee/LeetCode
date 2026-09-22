@@ -36,6 +36,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/thoufeee/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1122-relative-sort-array](https://github.com/thoufeee/LeetCode/tree/master/1122-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/thoufeee/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thoufeee/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thoufeee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thoufeee/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/thoufeee/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -391,6 +392,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/thoufeee/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/thoufeee/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thoufeee/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Enumeration
 |  |
 | ------- |
