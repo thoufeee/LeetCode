@@ -1,15 +1,21 @@
 func twoSum(numbers []int, target int) []int {
 
-      hash := make(map[int]int)
+    l := 0
+    r := len(numbers)-1
 
-      for i,val := range numbers {
-            diff := target - val
+    for l < r {
+          sum := numbers[l] + numbers[r]  
 
-        if j,res := hash[diff]; res {
-              return [] int {j+1, i+1}
-        }
+          if sum == target {
+              return []int{l+1,r+1}
+          }else if sum < target{
+             l++
+          }else{
+            r--
+          }
+    }
 
-          hash[val] = i
-      }
-         return [] int {}
+    return []int{}
+
+     
 }
